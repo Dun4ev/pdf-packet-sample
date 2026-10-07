@@ -1,0 +1,701 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Synthetic report packet \055 Dun4ev work sample)
+/Author (Dun4ev)
+/Subject (Synthetic PDF assembly demonstration\073 not a paid client result)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 15 0 R 25 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 12 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/CropBox [ 0 0 595 842 ]
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 1914
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.090196 .168627 .231373 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 48 794 Tm (DUN4EV / DOCUMENT WORKFLOW SAMPLE) Tj T* ET
+.345098 .411765 .47451 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 48 776 Tm (SYNTHETIC DEMO - NOT A CLIENT DOCUMENT) Tj T* ET
+.090196 .168627 .231373 rg
+BT /F2 26 Tf 31.2 TL ET
+BT 1 0 0 1 48 718 Tm (A clear PDF packet) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 48 695 Tm (One report, two appendices, a traceable handover.) Tj T* ET
+.792157 .831373 .862745 RG
+n 48 670 m 547 670 l S
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 48 631 Tm (INPUT) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 225 631 Tm (Three synthetic PDF files.) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 48 591 Tm (OUTPUT) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 225 591 Tm (Combined PDF with nested bookmarks.) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 48 551 Tm (PAGE VARIANTS) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 225 551 Tm (Portrait, landscape, rotation and crop.) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 48 511 Tm (SOURCE HANDLING) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 225 511 Tm (Sources preserved; SHA-256 recorded.) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 48 471 Tm (SCOPE) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 225 471 Tm (PDF assembly and labels, not OCR.) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 48 431 Tm (SERVICE) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 225 431 Tm (Adaptation to a confirmed reporting format.) Tj T* ET
+.345098 .411765 .47451 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 48 48 Tm (Fictional values. No live equipment, customer data or paid-client claim.) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.14902 0.439216 0.392157 rg
+BT
+1 0 0 1 493.216 818 Tm
+(Report \057 SYNTHETIC) Tj
+T*
+ET
+0.345098 0.411765 0.47451 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 504.288 24 Tm
+(Packet page 1 of 3) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/D [ 4 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+11 0 obj
+<<
+/A 10 0 R
+/Title (Report)
+/Parent 12 0 R
+/Count 1
+/First 14 0 R
+/Last 14 0 R
+/Next 22 0 R
+>>
+endobj
+12 0 obj
+<<
+/First 11 0 R
+/Count 6
+/Last 32 0 R
+>>
+endobj
+13 0 obj
+<<
+/D [ 4 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+14 0 obj
+<<
+/A 13 0 R
+/Title (Sample scope)
+/Parent 11 0 R
+/Count 0
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 842 595 ]
+/Resources <<
+/Font <<
+/F1 17 0 R
+/F1-0 18 0 R
+/F2 19 0 R
+/F2-0 20 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/CropBox [ 0 0 842 595 ]
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 1442
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.090196 .168627 .231373 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 48 547 Tm (DUN4EV / DOCUMENT WORKFLOW SAMPLE) Tj T* ET
+.345098 .411765 .47451 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 48 529 Tm (SYNTHETIC DEMO - NOT A CLIENT DOCUMENT) Tj T* ET
+.090196 .168627 .231373 rg
+BT /F2 26 Tf 31.2 TL ET
+BT 1 0 0 1 48 471 Tm (Example operations log) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 48 448 Tm (Illustrative rows for layout checking only.) Tj T* ET
+.792157 .831373 .862745 RG
+n 48 423 m 794 423 l S
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 48 384 Tm (DEMO-001) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 225 384 Tm (Planned inspection - scheduled) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 48 344 Tm (DEMO-002) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 225 344 Tm (Document review - awaiting a reviewer) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 48 304 Tm (DEMO-003) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 225 304 Tm (Record export - prepared sample) Tj T* ET
+.345098 .411765 .47451 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 48 48 Tm (Fictional values. No live equipment, customer data or paid-client claim.) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 842 595 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.14902 0.439216 0.392157 rg
+BT
+1 0 0 1 721.544 571 Tm
+(Appendix A \057 SYNTHETIC) Tj
+T*
+ET
+0.345098 0.411765 0.47451 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 751.288 24 Tm
+(Packet page 2 of 3) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/D [ 15 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+22 0 obj
+<<
+/A 21 0 R
+/Title (Appendix A)
+/Prev 11 0 R
+/Parent 12 0 R
+/Count 1
+/First 24 0 R
+/Last 24 0 R
+/Next 32 0 R
+>>
+endobj
+23 0 obj
+<<
+/D [ 15 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+24 0 obj
+<<
+/A 23 0 R
+/Title (Illustrative log)
+/Parent 22 0 R
+/Count 0
+>>
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0.0 0.0 595 842 ]
+/Resources <<
+/Font <<
+/F1 27 0 R
+/F1-0 28 0 R
+/F2 29 0 R
+/F2-0 30 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/CropBox [ 20 20 575 822 ]
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 1940
+>>
+stream
+q
+q
+0.00000000000000006123234 -1 1 0.00000000000000006123234 0.0 842 cm
+q
+0.00000000000000006123234 1 -1 0.00000000000000006123234 842 0.0 cm
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.090196 0.168627 0.231373 rg
+BT
+/F2 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 48 794 Tm
+(DUN4EV \057 DOCUMENT WORKFLOW SAMPLE) Tj
+T*
+ET
+0.345098 0.411765 0.47451 rg
+BT
+/F1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 776 Tm
+(SYNTHETIC DEMO \055 NOT A CLIENT DOCUMENT) Tj
+T*
+ET
+0.090196 0.168627 0.231373 rg
+BT
+/F2 26 Tf
+31.2 TL
+ET
+BT
+1 0 0 1 48 718 Tm
+(Example review sheet) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 48 695 Tm
+(The checklist content is fictional\054 not engineering guidance\056) Tj
+T*
+ET
+0.792157 0.831373 0.862745 RG
+n
+48 670 m
+547 670 l
+S
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 48 631 Tm
+(DOCUMENT) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 225 631 Tm
+(DEMO\055DOC\055003) Tj
+T*
+ET
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 48 591 Tm
+(REVISION) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 225 591 Tm
+(00 \055 synthetic example) Tj
+T*
+ET
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 48 551 Tm
+(ITEM 01) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 225 551 Tm
+(Confirm provided source and revision\056) Tj
+T*
+ET
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 48 511 Tm
+(ITEM 02) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 225 511 Tm
+(Review unresolved fields manually\056) Tj
+T*
+ET
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 48 471 Tm
+(ITEM 03) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 225 471 Tm
+(Approve the agreed output before delivery\056) Tj
+T*
+ET
+0.345098 0.411765 0.47451 rg
+BT
+/F1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 48 Tm
+(Fictional values\056 No live equipment\054 customer data or paid\055client claim\056) Tj
+T*
+ET
+Q
+Q
+
+Q
+
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.14902 0.439216 0.392157 rg
+BT
+1 0 0 1 454.544 798 Tm
+(Appendix B \057 SYNTHETIC) Tj
+T*
+ET
+0.345098 0.411765 0.47451 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 484.288 44 Tm
+(Packet page 3 of 3) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/D [ 25 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+32 0 obj
+<<
+/A 31 0 R
+/Title (Appendix B)
+/Prev 22 0 R
+/Parent 12 0 R
+/Count 1
+/First 34 0 R
+/Last 34 0 R
+>>
+endobj
+33 0 obj
+<<
+/D [ 25 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+34 0 obj
+<<
+/A 33 0 R
+/Title (Illustrative review)
+/Parent 32 0 R
+/Count 0
+>>
+endobj
+xref
+0 35
+0000000000 65535 f 
+0000000015 00000 n 
+0000000205 00000 n 
+0000000278 00000 n 
+0000000344 00000 n 
+0000000614 00000 n 
+0000002580 00000 n 
+0000002687 00000 n 
+0000002794 00000 n 
+0000002906 00000 n 
+0000003018 00000 n 
+0000003067 00000 n 
+0000003179 00000 n 
+0000003237 00000 n 
+0000003286 00000 n 
+0000003364 00000 n 
+0000003640 00000 n 
+0000005135 00000 n 
+0000005243 00000 n 
+0000005351 00000 n 
+0000005464 00000 n 
+0000005577 00000 n 
+0000005627 00000 n 
+0000005756 00000 n 
+0000005806 00000 n 
+0000005888 00000 n 
+0000006170 00000 n 
+0000008163 00000 n 
+0000008271 00000 n 
+0000008379 00000 n 
+0000008492 00000 n 
+0000008605 00000 n 
+0000008655 00000 n 
+0000008771 00000 n 
+0000008821 00000 n 
+trailer
+<<
+/Size 35
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8906
+%%EOF

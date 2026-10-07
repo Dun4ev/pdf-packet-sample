@@ -1,0 +1,52 @@
+{
+  "synthetic": true,
+  "source_files_unchanged": true,
+  "source_sha256": {
+    "01-report.pdf": "a24bf0b44c172a28e988f706a88fba14940e3f33f5a7bc9408e7cf72c485c87f",
+    "02-appendix-a.pdf": "5085b0665b848c758117e93f345002519b3883cb5423b0c25945e66d1be9841a",
+    "03-appendix-b.pdf": "528d5a41029432a523b90b75cc4c861bc2402c45cd1a116cb825d1d15ac82a9b"
+  },
+  "source_pages": [
+    1,
+    1,
+    1
+  ],
+  "output_pages": 3,
+  "output_sha256": "61cd9dfa254d8f507f5ff20257f6c177bdce54c266efe14647767301593daf86",
+  "output_rotation": [
+    0,
+    0,
+    0
+  ],
+  "bookmarks": [
+    {
+      "title": "Report",
+      "page": 1
+    },
+    {
+      "title": "Sample scope",
+      "page": 1
+    },
+    {
+      "title": "Appendix A",
+      "page": 2
+    },
+    {
+      "title": "Illustrative log",
+      "page": 2
+    },
+    {
+      "title": "Appendix B",
+      "page": 3
+    },
+    {
+      "title": "Illustrative review",
+      "page": 3
+    }
+  ],
+  "stamp_text_verified": true,
+  "visual_review": "All three pages rendered and visually inspected; no clipped content or overlapping labels",
+  "implementation": "Independent reportlab/pypdf sample pipeline; existing desktop GUI not executed",
+  "word_conversion_tested": false,
+  "ocr_tested": false
+}
