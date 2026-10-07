@@ -2,6 +2,12 @@
 
 A synthetic report with two appendices, labels, page numbers and nested bookmarks. The example includes portrait, landscape and a deliberately encoded rotated/cropped input. All source files stay unchanged during assembly; the manifest records their SHA-256 hashes.
 
+## Browser preview
+
+![Read-only preview of the synthetic PDF packet](docs/pdf-packet-preview.png)
+
+This viewer presents the included synthetic sample. Clone or download the whole repository and open `sample/index.html` in a browser to navigate its rendered pages and bookmarks. It is a read-only sample view, not an app for uploading or processing PDFs.
+
 [Open the finished three-page PDF](sample/synthetic-report-packet.pdf) · [Verification manifest](sample/verification.json)
 
 This is an independently implemented reportlab/pypdf example. It does not run the older PDF Attachments desktop GUI and does not demonstrate Word conversion, OCR, PDF-form extraction or paid-client work. The content is fictional. It is not engineering guidance.
